@@ -1,2 +1,2 @@
-# tenbae-sales
-Sales App
+# tenbae-salesforce
+Sales App Integration Admin Portal
